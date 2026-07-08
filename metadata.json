@@ -1,0 +1,6 @@
+{
+  "name": "Palavras Cruzadas",
+  "description": "Um jogo de palavras cruzadas interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
